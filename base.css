@@ -1,0 +1,11 @@
+.close-button
+{
+    right:1%;
+    top:4vh;
+    width: 20%;
+    position: fixed;
+    z-index: 100;
+    color:white;
+    text-decoration: none;
+    background-color: #EF2945;
+}

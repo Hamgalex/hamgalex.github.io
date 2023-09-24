@@ -1,0 +1,22 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-image: url('pattern.png'); 
+    background-position: center; 
+    height: 8vh; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    
+}
+.main-image
+{
+    width: auto;
+    max-height: 8vh;
+}
+.main-banner{
+    width: 100%;
+}
